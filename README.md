@@ -62,6 +62,10 @@ This project is a Python notebook that automates the creation of flashcards by l
    - The script is designed to integrate with Anki through AnkiConnect. However, you should verify that the flashcards are correctly formatted and appear in your Anki deck.
    - Consult the AnkiConnect documentation if you need to customize the import process or encounter any issues.
 
+## API Reference
+- [OpenAI API Documentation](https://beta.openai.com/docs/).
+-  [AnkiConnect GitHub Repository](https://foosoft.net/projects/anki-connect/).
+
 ## Contributing
 Contributions to enhance the functionality or efficiency of this script are welcome. Please ensure to follow best practices for code contributions.
 
