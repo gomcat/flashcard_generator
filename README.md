@@ -68,7 +68,3 @@ This project is a Python notebook that automates the creation of flashcards by l
 
 ## Contributing
 Contributions to enhance the functionality or efficiency of this script are welcome. Please ensure to follow best practices for code contributions.
-
-## License
-Include a license here, if applicable.
-
