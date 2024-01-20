@@ -18,7 +18,7 @@ This project is a Python notebook that automates the creation of flashcards by l
 ### Setup
 1. **Clone the Repository**
    ```bash
-   git clone [(https://github.com/gomcat/flashcard_generator)]
+   git clone https://github.com/gomcat/flashcard_generator
    cd ankiconnect_openai
 2. **Install the required packages**:
    ```bash
